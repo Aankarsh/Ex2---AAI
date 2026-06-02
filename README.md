@@ -1,7 +1,7 @@
 <H3> Name : Aankarsh </H3>
 <H3>Register No. 212223233001</H3>
 <H3>DATE: 17/04/25</H3>
-<H3>Experiment 2</H3>
+<H3>Experiment 1</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ## Aim:
